@@ -19,7 +19,7 @@ main(){
 	cout<<"II_________________________________________________________________________________II\n";
 	cout<<"II  OPERASI BANGUN DATAR :                  ||  DIBUAT OLEH :                      II\n";
 	cout<<"II  1.KLL PERSEGI         7.KLL LINGKARAN   ||  NAMA      : ARYA ADHI NUGRAHA      II\n";
-	cout<<"II  2.L PERSEGI           8.L LINGKARAN     ||  KELAS     : X TKJ 2                II\n";
+	cout<<"II  2.L PERSEGI           8.L LINGKARAN     ||  KELAS     : XI TKJ 2               II\n";
 	cout<<"II  3.KLL PERSEGI PANJANG                   ||  ABSEN     : 09                     II\n";
 	cout<<"II  4.L PERSEGI PANJANG                     ||  MAPEL     : PEMROGRAMAN DASAR      II\n";
 	cout<<"II  5.KLL SEGITIGA                          ||  GURU      : Bp Teguh Astoro, S.Kom.II\n";
@@ -212,11 +212,11 @@ char ulang;
 	}
 	akhir:
 	cout<<"II*********************************************************************************II\n";
-	cout<<"II                   ARYA ADHI NUGRAHA / X TKJ 2 / SMKN 2 PURWODADI                II\n";
+	cout<<"II                  ARYA ADHI NUGRAHA / XI TKJ 2 / SMKN 2 PURWODADI                II\n";
 	cout<<"II_________________________________________________________________________________II\n";
 	cout<<"II            DILARANG MENGUBAH ATAU MENYALIN PROGRAM TANPA SEIZIN PENULIS         II\n";
 	cout<<"II*********************************************************************************II\n";
-	cout<<"II                HAK CIPTA DILINDUNGI UNDANG-UNDANG   Copyright ©2018             II\n";
+	cout<<"II                HAK CIPTA DILINDUNGI UNDANG-UNDANG   Copyright Å 2018             II\n";
 	cout<<"II*********************************************************************************II\n\n";
 
     getch();	
